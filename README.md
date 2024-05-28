@@ -13,6 +13,6 @@ It's pretty buggy and doesn't work entirely as intended and I won't be developin
 1. Install Cmake as a dependency 
 1. Clone this repo
 2. cd into the cloned repository
-3. Build it using ``cmake  --build cmake-build-debug --target final-project 2``
+3. Build it using ``cmake  --build cmake-build-debug --target final_Project2``
 4. ``./cmake-build-debug/final_Project2 ``
 
