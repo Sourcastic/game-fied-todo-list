@@ -2,9 +2,9 @@
   Gamified ToDo List
 </h3>
 
-This is a pretty basic little program for my second semester programming course. It's a gamified todo list where you can add, remove and complete tasks with an option due date for completion. You get points for completing tasks and certain badges for specific taks (Adding 3 tasks in a single day, adding a task a week in adcance... etc)
+This is a pretty basic little program for my second semester programming course. It's a gamified todo list where you can add, remove and complete tasks with an optional due date for completion. You get points for completing tasks and certain badges for specific tasks (Adding 3 tasks in a single day, adding a task a week in advance... etc)
 
-It's pretty buggy and doesn't work entirely as intended and I won't be developing this much further. But hey, got 97% on it, so I'm happy!!
+It's pretty buggy and doesn't work entirely as intended and I won't be developing this much further. But hey, got a 97% on it!
 
 ## BUILD AND RUN INSTRUCTIONS FOR LINUX 
 
